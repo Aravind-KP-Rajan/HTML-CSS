@@ -1,0 +1,50 @@
+p{
+    font-family: Arial;
+    font-size: 40px;
+    margin-block-end: 25px;
+
+}
+
+input{
+    font-family: Arial;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 350px;
+    background-color: rgb(232, 231, 231);
+    border-style: solid;
+    border: none;
+    margin-top: 10px;
+    display: block;
+    
+
+}
+
+button{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    cursor: pointer;
+}
+button:hover{
+    opacity: 0.6;
+
+}
+
+.request{
+    margin-top: 20px;
+    color: white;
+    background-color: black;
+    border: none;
+    
+}
+
+.schedule{
+    color: black;
+    background-color: rgb(232, 231, 231);
+    border: none;
+    margin-left: 15px;
+}
+
