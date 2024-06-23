@@ -1,0 +1,39 @@
+.air{
+    vertical-align: middle;
+    width: 50px;
+    border-radius: 50px;
+    height: 50px;
+    object-fit: cover;
+    margin-right: 5px;
+}
+
+.what{
+    vertical-align: middle;
+    color: rgb(100, 100, 100);
+    border: none;
+    width: 300px;
+
+}
+.tweet{
+    vertical-align: middle;
+    background-color: rgb(0, 140, 255);
+    color: white;
+    font-size: 16px;
+    border-radius: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: none;
+    width: 80px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.shadow{
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 450px;
+}
